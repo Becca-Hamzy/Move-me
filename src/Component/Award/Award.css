@@ -1,0 +1,17 @@
+.award{
+    position: relative;
+    bottom: 455px;
+    left: 65px;
+    width: 250px;
+    /* border: 1px solid; */
+}
+@media(max-width: 800px){
+
+    .award{
+        position: relative;
+        bottom: 630px;
+        left: 70px;
+        width: 80px;
+        /* border: 1px solid; */
+    }
+}

@@ -1,0 +1,15 @@
+.sub-head h2{
+    color: #028bce;
+    margin: 70px;
+    /* border: 1px solid black; */
+}
+
+@media(max-width: 800px){
+ 
+    .sub-head h2{
+        
+
+        margin-top: 80px;
+        margin-left: 20px;
+    }
+}
